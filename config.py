@@ -1,1 +1,0 @@
-API_LOGO = "pk_eGKEoK2FQsS4HfMX2rwzkg"
