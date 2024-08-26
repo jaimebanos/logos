@@ -1,0 +1,542 @@
+[
+  {
+    "ISIN": "CH0038863350",
+    "SYMBOL": "NESN",
+    "name": "Nestlé",
+    "website": "https://www.nestle.com"
+  },
+  {
+    "ISIN": "CH0012032048",
+    "SYMBOL": "ROG",
+    "name": "Roche",
+    "website": "https://www.roche.com"
+  },
+  {
+    "ISIN": "CH0012005267",
+    "SYMBOL": "NOVN",
+    "name": "Novartis",
+    "website": "https://www.novartis.com"
+  },
+  {
+    "ISIN": "FR0000121014",
+    "SYMBOL": "MC",
+    "name": "LVMH",
+    "website": "https://www.lvmh.com"
+  },
+  {
+    "ISIN": "DE0007164600",
+    "SYMBOL": "SAP",
+    "name": "SAP",
+    "website": "https://www.sap.com"
+  },
+  {
+    "ISIN": "DE0007664039",
+    "SYMBOL": "VOW3",
+    "name": "Volkswagen",
+    "website": "https://www.volkswagen.de"
+  },
+  {
+    "ISIN": "DE0005190003",
+    "SYMBOL": "BMW",
+    "name": "BMW",
+    "website": "https://www.bmw.com"
+  },
+  {
+    "ISIN": "FR0000120271",
+    "SYMBOL": "TOTF",
+    "name": "TotalEnergies",
+    "website": "https://totalenergies.com"
+  },
+  {
+    "ISIN": "GB00BP6MXD84",
+    "SYMBOL": "SHEL",
+    "name": "Shell",
+    "website": "https://www.shell.com"
+  },
+  {
+    "ISIN": "GB00B10RZP78",
+    "SYMBOL": "UL",
+    "name": "Unilever",
+    "website": "https://www.unilever.com"
+  },
+  {
+    "ISIN": "GB0005405286",
+    "SYMBOL": "HSBA",
+    "name": "HSBC",
+    "website": "https://www.hsbc.com"
+  },
+  {
+    "ISIN": "DE0008404005",
+    "SYMBOL": "ALV",
+    "name": "Allianz",
+    "website": "https://www.allianz.com"
+  },
+  {
+    "ISIN": "DE0007236101",
+    "SYMBOL": "SIE",
+    "name": "Siemens",
+    "website": "https://www.siemens.com"
+  },
+  {
+    "ISIN": "DE0007100000",
+    "SYMBOL": "MBG",
+    "name": "Mercedes-Benz",
+    "website": "https://www.mercedes-benz.com"
+  },
+  {
+    "ISIN": "FR0000121972",
+    "SYMBOL": "SU",
+    "name": "Schneider Electric",
+    "website": "https://www.se.com"
+  },
+  {
+    "ISIN": "GB0031348658",
+    "SYMBOL": "BARC",
+    "name": "Barclays",
+    "website": "https://www.barclays.co.uk"
+  },
+  {
+    "ISIN": "GB0002875804",
+    "SYMBOL": "BAT",
+    "name": "British American Tobacco",
+    "website": "https://www.bat.com"
+  },
+  {
+    "ISIN": "GB0002374006",
+    "SYMBOL": "DGE",
+    "name": "Diageo",
+    "website": "https://www.diageo.com"
+  },
+  {
+    "ISIN": "NL0000235190",
+    "SYMBOL": "AIR",
+    "name": "Airbus",
+    "website": "https://www.airbus.com"
+  },
+  {
+    "ISIN": "FR0000120578",
+    "SYMBOL": "SAN",
+    "name": "Sanofi",
+    "website": "https://www.sanofi.com"
+  },
+  {
+    "ISIN": "DE000BASF111",
+    "SYMBOL": "BAS",
+    "name": "BASF",
+    "website": "https://www.basf.com"
+  },
+  {
+    "ISIN": "FR0000120321",
+    "SYMBOL": "OR",
+    "name": "L’Oréal",
+    "website": "https://www.loreal.com"
+  },
+  {
+    "ISIN": "FR0000121485",
+    "SYMBOL": "KER",
+    "name": "Kering",
+    "website": "https://www.kering.com"
+  },
+  {
+    "ISIN": "DE000ENAG999",
+    "SYMBOL": "EOAN",
+    "name": "E.ON",
+    "website": "https://www.eon.com"
+  },
+  {
+    "ISIN": "DE0005557508",
+    "SYMBOL": "DTE",
+    "name": "Deutsche Telekom",
+    "website": "https://www.telekom.com"
+  },
+  {
+    "ISIN": "ES0144580Y14",
+    "SYMBOL": "IBE",
+    "name": "Iberdrola",
+    "website": "https://www.iberdrola.com"
+  },
+  {
+    "ISIN": "ES0113900J37",
+    "SYMBOL": "SAN",
+    "name": "Banco Santander",
+    "website": "https://www.santander.com"
+  },
+  {
+    "ISIN": "ES0113211835",
+    "SYMBOL": "BBVA",
+    "name": "BBVA",
+    "website": "https://www.bbva.com"
+  },
+  {
+    "ISIN": "IT0003128367",
+    "SYMBOL": "ENEL",
+    "name": "Enel",
+    "website": "https://www.enel.com"
+  },
+  {
+    "ISIN": "IT0005433002",
+    "SYMBOL": "EXOR",
+    "name": "Exor",
+    "website": "https://www.exor.com"
+  },
+  {
+    "ISIN": "NL0000303709",
+    "SYMBOL": "STLA",
+    "name": "Fiat Chrysler Automobiles (Stellantis)",
+    "website": "https://www.stellantis.com"
+  },
+  {
+    "ISIN": "ES0178430E18",
+    "SYMBOL": "TEF",
+    "name": "Telefónica",
+    "website": "https://www.telefonica.com"
+  },
+  {
+    "ISIN": "IT0003132476",
+    "SYMBOL": "ENI",
+    "name": "Eni",
+    "website": "https://www.eni.com"
+  },
+  {
+    "ISIN": "GB0004835483",
+    "SYMBOL": "SAB",
+    "name": "SABMiller (AB InBev)",
+    "website": "https://www.ab-inbev.com"
+  },
+  {
+    "ISIN": "CH0011075394",
+    "SYMBOL": "ZURN",
+    "name": "Zurich Insurance",
+    "website": "https://www.zurich.com"
+  },
+  {
+    "ISIN": "GB00B033F229",
+    "SYMBOL": "CNA",
+    "name": "Centrica",
+    "website": "https://www.centrica.com"
+  },
+  {
+    "ISIN": "FR0000130809",
+    "SYMBOL": "GLE",
+    "name": "Société Générale",
+    "website": "https://www.societegenerale.com"
+  },
+  {
+    "ISIN": "FR0000045072",
+    "SYMBOL": "ACA",
+    "name": "Credit Agricole",
+    "website": "https://www.credit-agricole.com"
+  },
+  {
+    "ISIN": "GB0009895292",
+    "SYMBOL": "AZN",
+    "name": "AstraZeneca",
+    "website": "https://www.astrazeneca.com"
+  },
+  {
+    "ISIN": "FR0010208488",
+    "SYMBOL": "ENGI",
+    "name": "Engie",
+    "website": "https://www.engie.com"
+  },
+  {
+    "ISIN": "NL0000009538",
+    "SYMBOL": "PHIA",
+    "name": "Philips",
+    "website": "https://www.philips.com"
+  },
+  {
+    "ISIN": "NL0000009082",
+    "SYMBOL": "KPN",
+    "name": "KPN",
+    "website": "https://www.kpn.com"
+  },
+  {
+    "ISIN": "BE0003739530",
+    "SYMBOL": "UCB",
+    "name": "UCB",
+    "website": "https://www.ucb.com"
+  },
+  {
+    "ISIN": "BE0003470755",
+    "SYMBOL": "SOLB",
+    "name": "Solvay",
+    "website": "https://www.solvay.com"
+  },
+  {
+    "ISIN": "FR0000125486",
+    "SYMBOL": "DG",
+    "name": "Vinci",
+    "website": "https://www.vinci.com"
+  },
+  {
+    "ISIN": "FR0000124141",
+    "SYMBOL": "VIE",
+    "name": "Veolia",
+    "website": "https://www.veolia.com"
+  },
+  {
+    "ISIN": "FR0000051732",
+    "SYMBOL": "ATO",
+    "name": "Atos",
+    "website": "https://atos.net"
+  },
+  {
+    "ISIN": "FR0000130650",
+    "SYMBOL": "DSY",
+    "name": "Dassault Systèmes",
+    "website": "https://www.3ds.com"
+  },
+  {
+    "ISIN": "FR0010307819",
+    "SYMBOL": "LR",
+    "name": "Legrand",
+    "website": "https://www.legrand.com"
+  },
+  {
+    "ISIN": "FR0000125007",
+    "SYMBOL": "SGO",
+    "name": "Saint-Gobain",
+    "website": "https://www.saint-gobain.com"
+  },
+  {
+    "ISIN": "DE0006483001",
+    "SYMBOL": "LIN",
+    "name": "Linde",
+    "website": "https://www.linde.com"
+  },
+  {
+    "ISIN": "FR0000052292",
+    "SYMBOL": "RMS",
+    "name": "Hermès",
+    "website": "https://www.hermes.com"
+  },
+  {
+    "ISIN": "FR0010613471",
+    "SYMBOL": "SEV",
+    "name": "Suez (Veolia)",
+    "website": "https://www.suez.com"
+  },
+  {
+    "ISIN": "DE0007037129",
+    "SYMBOL": "RWE",
+    "name": "RWE",
+    "website": "https://www.rwe.com"
+  },
+  {
+    "ISIN": "ES0173516115",
+    "SYMBOL": "REP",
+    "name": "Repsol",
+    "website": "https://www.repsol.com"
+  },
+  {
+    "ISIN": "DE0008402215",
+    "SYMBOL": "HNR1",
+    "name": "Hannover Re",
+    "website": "https://www.hannover-re.com"
+  },
+  {
+    "ISIN": "DE000BAY0017",
+    "SYMBOL": "BAYN",
+    "name": "Bayer",
+    "website": "https://www.bayer.com"
+  },
+  {
+    "ISIN": "FR0006174348",
+    "SYMBOL": "BVI",
+    "name": "Bureau Veritas",
+    "website": "https://www.bureauveritas.com"
+  },
+  {
+    "ISIN": "FR0000073272",
+    "SYMBOL": "SAF",
+    "name": "Safran",
+    "website": "https://www.safran-group.com"
+  },
+  {
+    "ISIN": "FR0000120073",
+    "SYMBOL": "AI",
+    "name": "Air Liquide",
+    "website": "https://www.airliquide.com"
+  },
+  {
+    "ISIN": "LU1598757687",
+    "SYMBOL": "MT",
+    "name": "ArcelorMittal",
+    "website": "https://corporate.arcelormittal.com"
+  },
+  {
+    "ISIN": "FR0000120693",
+    "SYMBOL": "RI",
+    "name": "Pernod Ricard",
+    "website": "https://www.pernod-ricard.com"
+  },
+  {
+    "ISIN": "GB00B07V7J56",
+    "SYMBOL": "EMG",
+    "name": "Man Group",
+    "website": "https://www.man.com"
+  },
+  {
+    "ISIN": "FR0013326246",
+    "SYMBOL": "URW",
+    "name": "Unibail-Rodamco-Westfield",
+    "website": "https://www.urw.com"
+  },
+  {
+    "ISIN": "PL9999999375",
+    "SYMBOL": "CDR",
+    "name": "CD Projekt",
+    "website": "https://www.cdprojekt.com"
+  },
+  {
+    "ISIN": "NL0011794037",
+    "SYMBOL": "AD",
+    "name": "Ahold Delhaize",
+    "website": "https://www.aholddelhaize.com"
+  },
+  {
+    "ISIN": "CH0012410517",
+    "SYMBOL": "BALN",
+    "name": "Baloise",
+    "website": "https://www.baloise.com"
+  },
+  {
+    "ISIN": "CH0418792922",
+    "SYMBOL": "SIKA",
+    "name": "Sika",
+    "website": "https://www.sika.com"
+  },
+  {
+    "ISIN": "CH0244767585",
+    "SYMBOL": "UBSG",
+    "name": "UBS",
+    "website": "https://www.ubs.com"
+  },
+  {
+    "ISIN": "CH0126881561",
+    "SYMBOL": "SREN",
+    "name": "Swiss Re",
+    "website": "https://www.swissre.com"
+  },
+  {
+    "ISIN": "CH0014852781",
+    "SYMBOL": "SLHN",
+    "name": "Swiss Life",
+    "website": "https://www.swisslife.com"
+  },
+  {
+    "ISIN": "FR0000120628",
+    "SYMBOL": "CS",
+    "name": "AXA",
+    "website": "https://www.axa.com"
+  },
+  {
+    "ISIN": "GB00BYX7NQ97",
+    "SYMBOL": "LAND",
+    "name": "Land Securities",
+    "website": "https://www.landsec.com"
+  },
+  {
+    "ISIN": "GB00B06H4B31",
+    "SYMBOL": "HIK",
+    "name": "Hikma Pharmaceuticals",
+    "website": "https://www.hikma.com"
+  },
+  {
+    "ISIN": "GB0009223206",
+    "SYMBOL": "SN.",
+    "name": "Smith & Nephew",
+    "website": "https://www.smith-nephew.com"
+  },
+  {
+    "ISIN": "DE000TUAG505",
+    "SYMBOL": "TUI1",
+    "name": "TUI Group",
+    "website": "https://www.tuigroup.com"
+  },
+  {
+    "ISIN": "RU0009046510",
+    "SYMBOL": "SVST",
+    "name": "Severstal",
+    "website": "https://www.severstal.com"
+  },
+  {
+    "ISIN": "RU0009029540",
+    "SYMBOL": "SBER",
+    "name": "Sberbank",
+    "website": "https://www.sberbank.ru"
+  },
+  {
+    "ISIN": "RU0007661625",
+    "SYMBOL": "GAZP",
+    "name": "Gazprom",
+    "website": "https://www.gazprom.com"
+  },
+  {
+    "ISIN": "RU0009024277",
+    "SYMBOL": "LKOH",
+    "name": "Lukoil",
+    "website": "https://www.lukoil.com"
+  },
+  {
+    "ISIN": "RU0007288411",
+    "SYMBOL": "GMKN",
+    "name": "Norilsk Nickel",
+    "website": "https://www.nornik.ru"
+  },
+  {
+    "ISIN": "RU000A0J2Q06",
+    "SYMBOL": "ROSN",
+    "name": "Rosneft",
+    "website": "https://www.rosneft.com"
+  },
+  {
+    "ISIN": "US9848026019",
+    "SYMBOL": "YNDX",
+    "name": "Yandex",
+    "website": "https://www.yandex.com"
+  },
+  {
+    "ISIN": "AT0000743059",
+    "SYMBOL": "OMV",
+    "name": "OMV",
+    "website": "https://www.omv.com"
+  },
+  {
+    "ISIN": "AT0000606306",
+    "SYMBOL": "RBIN",
+    "name": "Raiffeisen Bank International",
+    "website": "https://www.rbinternational.com"
+  },
+  {
+    "ISIN": "DE0005439004",
+    "SYMBOL": "CON",
+    "name": "Continental AG",
+    "website": "https://www.continental.com"
+  },
+  {
+    "ISIN": "DE0007500001",
+    "SYMBOL": "TKA",
+    "name": "ThyssenKrupp",
+    "website": "https://www.thyssenkrupp.com"
+  },
+  {
+    "ISIN": "DE000BFB0019",
+    "SYMBOL": "B4B",
+    "name": "Metro AG",
+    "website": "https://www.metro.com"
+  },
+  {
+    "ISIN": "FR0000121725",
+    "SYMBOL": "AM",
+    "name": "Dassault Aviation",
+    "website": "https://www.dassault-aviation.com"
+  },
+  {
+    "ISIN": "FR0000146755",
+    "SYMBOL": "ENX",
+    "name": "Euronext",
+    "website": "https://www.euronext.com"
+  }
+]
