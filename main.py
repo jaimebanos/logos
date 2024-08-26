@@ -1,7 +1,11 @@
-from config import  API_LOGO
 import requests
 import os
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_LOGO = os.getenv('API_LOGO')
 
 def get_logos(logo_name:str, name:str):
     url = f'https://img.logo.dev/{logo_name}?token={API_LOGO}'
@@ -44,6 +48,7 @@ def read_json(path:str):
     except Exception:
         return []
 def main():
+    
     record = read_json("record.json")
     num_errores = 0
     descargados = 0

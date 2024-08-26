@@ -12,6 +12,8 @@ https://www.nushell.sh/
 
 
 ## Config
+Create a .env file with API_LOGO = "XXXXXX"
+
 Two files, content.json and record.json.
 content.json -> fill with a list of objects in this format
 
